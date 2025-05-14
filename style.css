@@ -621,4 +621,5 @@ a:visited {
   height: 157px;
   top: 75%;
   right: 50px;
+  pointer-events: none;
 }
